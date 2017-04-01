@@ -1,0 +1,17 @@
+<tabs>
+    <tab
+        id="@+id/tab_updates"
+        icon="@drawable/ic_recents" />
+        <!--title="updates"-->
+    <tab
+        id="@+id/tab_bus"
+        icon="@drawable/ic_nearby" />
+        <!--title="bus" -->
+    <tab
+        id="@+id/tab_info"
+        icon="@drawable/ic_friends"/>
+        <!--title="student" />-->
+    <tab
+        id="@+id/tab_serach"
+        icon="@drawable/ic_search"/>
+</tabs>
