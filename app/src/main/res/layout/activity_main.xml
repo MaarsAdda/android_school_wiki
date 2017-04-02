@@ -18,7 +18,7 @@
             android:id="@+id/message_view"
             android:layout_height="wrap_content"
             android:layout_width="fill_parent"
-            android:text="here we come soon."
+            android:text="here we come soon, Raghu is here."
             android:textSize="20sp"
             android:gravity="center_horizontal">
         </TextView>
